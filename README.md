@@ -9,7 +9,7 @@ A portfolio of data mining and machine learning projects as part of my portfolio
 
 [Project 4:Natural Language processing- Creating a YouTube spam filter](https://github.com/fawad-mahdi/Machine-learning-projects/blob/master/Project_4_Natural_lanuage_processing_youtubespamfilter.ipynb)
 
-[Project 5: Holt Winters exponential smoothing - Predicting carbon emissions] (https://github.com/fawad-mahdi/Machine-learning-projects/blob/master/Project_5_Simple%2BExponential%2Band%2BHolt%2BWinters%2Bsmoothing.ipynb)
+[Project 5: Holt Winters exponential smoothing - Predicting carbon emissions](https://github.com/fawad-mahdi/Machine-learning-projects/blob/master/Project_5_Simple%2BExponential%2Band%2BHolt%2BWinters%2Bsmoothing.ipynb)
 
 [Project 6: ARIMA on Time series forecasting](https://github.com/fawad-mahdi/Machine-learning-projects/blob/master/Project_6_ARIMA_Co2_emission_forecast.ipynb)
 
