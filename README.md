@@ -17,3 +17,4 @@ A portfolio of data mining and machine learning projects as part of my portfolio
 
 [Project 8: LSTM Recurent neural networks](https://github.com/fawad-mahdi/Machine-learning-projects/blob/master/Project_8_LSTM_Co2_emission_forecast.ipynb)
 
+[Project 9: Boosting- Credit risk modeling-Data mining and visualization](https://github.com/fawad-mahdi/Machine-learning-projects/blob/master/Project_9Credit%2Blending%2Bproblem-%2BData%2Bexploration%2Band%2Bvisualization.ipynb)
